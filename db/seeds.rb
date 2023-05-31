@@ -38,8 +38,8 @@ if second_user.save!
     puts 'Second user created successfully...'
 end
 
-first_category = Group.create({name: 'Mortgage', icon: 'https://www.smashbros.com/wiiu-3ds/images/character/toon_link/main.png', user_id: 1})
-second_category = Group.create({name: 'Sport', icon: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Approve_icon.svg', user_id: 1})
+first_category = Group.create({name: 'Housing', icon: 'https://cdn-icons-png.flaticon.com/512/4221/4221696.png', user_id: 1})
+second_category = Group.create({name: 'Recreation', icon: 'https://cdn-icons-png.flaticon.com/512/2553/2553695.png', user_id: 1})
 
 Operation.create([
     {name: 'Rent', amount: 250, user_id: 1, groups: [first_category]},
