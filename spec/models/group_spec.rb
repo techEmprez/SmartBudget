@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe Group, type: :model do
   subject do
-    Group.new({ name: 'Mortgage', icon: 'https://www.smashbros.com/wiiu-3ds/images/character/toon_link/main.png',
+    Group.new({ name: 'Housing', icon: 'https://www.freepnglogos.com/uploads/dollar-sign-png/dollar-sign-finance-dollar-financial-world-image-pixabay-0.png',
                 user_id: 1 })
   end
 
