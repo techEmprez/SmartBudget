@@ -20,7 +20,9 @@ default: &default
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-
+  URL: postgres://smartbudget_user:MLul1j62w3nmKdrFyNEdjtY5630ZaDFs@dpg-chrfj8jhp8ud4n0nb0b0-a/smartbudget
+  DATABASE_USERNAME: MLul1j62w3nmKdrFyNEdjtY5630ZaDFs@dpg-chrfj8jhp8ud4n0nb0b0-a/smartbudget
+  
 development:
   <<: *default
   database: SmartBudget_development
