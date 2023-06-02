@@ -104,7 +104,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://smart-budget-aw9r.onrender.com/)
+- [Loom video link](https://www.loom.com/share/01c6a54f42404e23b97204d00e8e3ad0)
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,6 +132,7 @@ Install this project with:
 ```sh
   cd SmartBudget
   gem install
+  bundle install
 ```
 
 ### Usage
@@ -160,9 +163,9 @@ To run tests, run the following command:
 
 👤 **Choice Osobor**
 
-- GitHub: [@techempress](https://github.com/techempress)
-- Twitter: [choice](https://twitter.com/choice)
-- LinkedIn: [choice](https://www.linkedin.com/in/choice/)
+- GitHub: [@techemprez](https://github.com/techemprez)
+- Twitter: [@techemprez](https://twitter.com/techemprez)
+- LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -181,7 +184,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/techEmprez/SmartBudget.git/issues).
+Feel free to check the [issues page](https://github.com/techEmprez/SmartBudget/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

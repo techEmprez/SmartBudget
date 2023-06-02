@@ -2,8 +2,8 @@ require 'rails_helper'
 
 RSpec.describe Operation, type: :model do
   subject do
-    user = User.create(name: 'Test', password: 'password', email: 'test@gmail.com')
-    Operation.new(name: 'Bag', amount: 200.4, user:)
+    User.create(name: 'Test', password: 'password', email: 'test@gmail.com')
+    Operation.new(name: 'Bag', amount: 200.4, user: User.first)
   end
 
   before { subject.save }
