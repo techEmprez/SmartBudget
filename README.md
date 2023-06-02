@@ -132,6 +132,7 @@ Install this project with:
 ```sh
   cd SmartBudget
   gem install
+  bundle install
 ```
 
 ### Usage
