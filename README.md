@@ -157,15 +157,15 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="author"></a>
 
 👤 **Choice Osobor**
 
-- GitHub: [@techemprez](https://github.com/techemprez)
-- Twitter: [@techemprez](https://twitter.com/techemprez)
-- LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
+- GitHub: [![@techEmprez](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/techEmprez)
+- Twitter: [![@techEmprez](https://img.shields.io/badge/-techEmprez-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/techEmprez)
+- LinkedIn: [![Choice-Osobor(techEmprez)](https://img.shields.io/badge/-ChoiceOsobor-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
